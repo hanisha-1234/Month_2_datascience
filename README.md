@@ -1,12 +1,5 @@
 📊 Data Science Projects – Month 2
 
-
-
-
-
-
-
-
 📌 Overview
 
 This repository contains two data science projects focusing on business analytics and entertainment data insights. The goal is to apply data preprocessing, visualization, and analytical techniques to extract meaningful patterns.
