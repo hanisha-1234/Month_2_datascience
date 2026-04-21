@@ -1,34 +1,50 @@
-Data Science Projects – Month 2
+📊 Data Science Projects – Month 2
+
+
+
+
+
+
+
+
+📌 Overview
+
+This repository contains two data science projects focusing on business analytics and entertainment data insights. The goal is to apply data preprocessing, visualization, and analytical techniques to extract meaningful patterns.
+
 🔹 Task 1: Customer Churn Analysis
 
-Developed an end-to-end churn analysis pipeline to understand customer behavior and identify factors influencing customer retention.
+📍 Objective: Analyze customer data to identify factors leading to churn
 
-Data Preparation:
-Performed extensive data cleaning, handled missing values, removed inconsistencies, and standardized formats.
-Feature Engineering:
-Created meaningful features such as tenure groups, usage patterns, and service-based indicators to improve model understanding.
-Exploratory Data Analysis (EDA):
-Used visualizations to uncover hidden patterns in customer demographics, subscription types, and service usage.
-Churn Insights:
-Identified key drivers of churn such as contract type, monthly charges, and customer tenure. Highlighted high-risk customer segments for targeted retention strategies.
+⚙️ Process
+🧹 Data cleaning and preprocessing
+🏗️ Feature engineering for better insights
+📊 Exploratory Data Analysis (EDA)
+📈 Visualization of churn patterns
+💡 Key Insights
+Customers with higher monthly charges show higher churn rates
+Short-term contracts lead to increased churn
+Long-term customers are more likely to stay
 🔹 Task 2: Netflix Data Analysis
 
-Analyzed Netflix dataset to explore trends in content production, genres, and global distribution.
+📍 Objective: Explore trends in Netflix content and distribution
 
-Data Cleaning:
-Processed raw dataset by handling null values, correcting data types, and filtering irrelevant entries.
-Trend Analysis:
-Examined growth patterns in movies vs TV shows, release year trends, and country-wise content production.
-Data Visualization:
-Built insightful visualizations to represent genre popularity, content distribution, and yearly trends.
-Content Insights:
-Discovered dominant genres, increasing trend of TV shows over time, and regional content expansion patterns.
-🛠️ Tools & Technologies Used
-Programming Language: Python
-Libraries: Pandas, NumPy, Seaborn, Matplotlib
-Techniques: Data Cleaning, EDA, Feature Engineering, Visualization
-🎯 Outcome & Impact
-Produced clean, structured datasets ready for analysis and modeling.
-Generated actionable insights for business decision-making (customer retention strategies).
-Identified entertainment industry trends through Netflix data analysis.
-Demonstrated the ability to compare business analytics (churn) with media analytics (Netflix trends) effectively.
+⚙️ Process
+🧹 Data cleaning and formatting
+📅 Trend analysis over years
+🌍 Country-wise and genre-wise analysis
+📊 Visualization of content patterns
+💡 Key Insights
+Significant growth in TV Shows over recent years
+Drama and Comedy dominate content categories
+Content production is highly concentrated in a few countries
+🛠️ Tech Stack
+Category	Tools Used
+Language	Python
+Libraries	Pandas, NumPy
+Visualization	Seaborn, Matplotlib
+📊 Outcome
+
+✔️ Cleaned and structured datasets for accurate analysis
+✔️ Extracted actionable insights for business decision-making
+✔️ Improved data visualization and storytelling skills
+✔️ Compared patterns between customer behavior and media trends
